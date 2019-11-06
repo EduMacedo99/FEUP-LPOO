@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSnake" tests="10" skipped="0" failures="0" errors="0" timestamp="2019-06-02T22:23:25" hostname="DESKTOP-C11FAIE" time="0.007">
+  <properties/>
+  <testcase name="testIncreaseSnakeLeft" classname="TestSnake" time="0.0"/>
+  <testcase name="testIncreaseSizeUp" classname="TestSnake" time="0.001"/>
+  <testcase name="testIncreaseSnakeRight" classname="TestSnake" time="0.0"/>
+  <testcase name="testSnakeComponents" classname="TestSnake" time="0.001"/>
+  <testcase name="canMove" classname="TestSnake" time="0.001"/>
+  <testcase name="testMoveDown" classname="TestSnake" time="0.0"/>
+  <testcase name="testMoveLeft" classname="TestSnake" time="0.0"/>
+  <testcase name="testIncreaseSizeDown" classname="TestSnake" time="0.0"/>
+  <testcase name="testMoveUp" classname="TestSnake" time="0.001"/>
+  <testcase name="testMoveRight" classname="TestSnake" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

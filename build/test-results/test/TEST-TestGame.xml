@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestGame" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-06-02T22:23:25" hostname="DESKTOP-C11FAIE" time="0.008">
+  <properties/>
+  <testcase name="TestIsAvailable" classname="TestGame" time="0.001"/>
+  <testcase name="testChangeDirectionDown" classname="TestGame" time="0.006"/>
+  <testcase name="testChangeDirectionLeft" classname="TestGame" time="0.0"/>
+  <testcase name="testChangeDirectionRight" classname="TestGame" time="0.0"/>
+  <testcase name="testChangeDirectionUp" classname="TestGame" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
